@@ -1,5 +1,7 @@
 streamlit
 mediapipe
+opencv-python-headless
+opencv-contrib-python-headless
 numpy
 pandas
 Image
